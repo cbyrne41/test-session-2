@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "cbyrne41",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210902759?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "cbyrne41",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-05-08T18:15:56.231Z",
-    "updated_at": "2025-05-08T18:15:56.231Z"
-  }
+    "updated_at": "2025-05-08T18:15:56.231Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "64a82714-6325-4c00-b0a5-c17319fce8fa": {
+      "content": [],
+      "created_at": "2025-05-08T18:15:56.251Z",
+      "created_by": "cbyrne41",
+      "title": "Usability Test 2",
+      "updated_at": "2025-05-08T18:15:56.251Z",
+      "updated_by": "cbyrne41",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "64a82714-6325-4c00-b0a5-c17319fce8fa"
+  ]
 }
